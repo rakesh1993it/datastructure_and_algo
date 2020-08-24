@@ -13,7 +13,7 @@ class Tree{
 
 class CheckIdenticalTree{
     public  static boolean isidenticalTree(Tree root1, Tree root2 ){
-        
+
     }
     public static void main(String args[]){
 
